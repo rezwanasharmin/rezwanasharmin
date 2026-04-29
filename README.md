@@ -63,9 +63,23 @@
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Activity
 
-[![rezwanasharmin github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rezwanasharmin&bg_color=1a1a2e&color=a78bfa&line=ec4899&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rezwanasharmin&bg_color=13111C&color=a78bfa&line=7c3aed&point=c4b5fd&area_color=5b21b6&area=true&hide_border=true&custom_title=rezwanasharmin's%20Contribution%20Graph&title_color=a78bfa" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rezwanasharmin/rezwanasharmin/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rezwanasharmin/rezwanasharmin/output/github-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rezwanasharmin/rezwanasharmin/output/github-snake.svg" />
+  </picture>
+</p>
 
 ---
 
@@ -76,4 +90,5 @@
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn)
 
 </div>
+
 
