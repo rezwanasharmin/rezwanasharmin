@@ -1,11 +1,6 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════ -->
-<!--           COLORFUL HEADER BANNER           -->
-<!-- Replace YOUR_USERNAME with your GitHub ID  -->
-<!-- ═══════════════════════════════════════════ -->
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Your%20Name%20Here&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Your%20City&descAlignY=60&descAlign=50&animation=fadeIn&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rezwana%20Sharmin&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Dhaka%2C%20Bangladesh&descAlignY=60&descAlign=50&animation=fadeIn&fontColor=ffffff)
 
 ---
 
@@ -45,22 +40,17 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-**Tools & Others**
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1a2e&title_color=a78bfa&icon_color=ec4899&text_color=c4b5fd" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=a78bfa&text_color=c4b5fd" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rezwanasharmin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1a2e&title_color=a78bfa&icon_color=ec4899&text_color=c4b5fd" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezwanasharmin&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=a78bfa&text_color=c4b5fd" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=1a1a2e&ring=a78bfa&fire=ec4899&currStreakLabel=c4b5fd" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rezwanasharmin&theme=tokyonight&hide_border=true&background=1a1a2e&ring=a78bfa&fire=ec4899&currStreakLabel=c4b5fd" />
 </p>
 
 ---
@@ -68,33 +58,22 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&row=1" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-  </picture>
+  <img src="https://github-profile-trophy.vercel.app/?username=rezwanasharmin&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&row=1" />
 </p>
 
 ---
 
 ## 📈 Activity Graph
 
-[![YOUR_USERNAME's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=1a1a2e&color=a78bfa&line=ec4899&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![rezwanasharmin github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rezwanasharmin&bg_color=1a1a2e&color=a78bfa&line=ec4899&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=rezwanasharmin&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="profile views" />
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn)
 
 </div>
+
